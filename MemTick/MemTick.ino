@@ -8,7 +8,7 @@
   Build with megaTinyCore (Arduino IDE):
     Board:      ATtiny3226/3216/1626/1616/1606/826/816/806/426/416/406
     Chip:       ATtiny3216 (or ATtiny1616)
-    Clock:      10 MHz internal  (safe at 3.3 V)
+    Clock:      8 MHz internal  (safe at 3.3 V)
     millis():   enabled (default timer)
     BOD:        2.6 V or disabled
     Programmer: matches your UPDI programmer (microUPDI, SerialUPDI, ...)
