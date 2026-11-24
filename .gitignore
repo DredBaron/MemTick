@@ -1,0 +1,25 @@
+# KiCad lock and backup files
+*.lck
+~*
+*-backups/
+_autosave-*
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+fp-info-cache
+\#auto_saved_files\#
+
+# KiCad local history
+.history/
+
+# Per-user KiCad view settings (layer visibility, window layout)
+*.kicad_prl
+
+# Arduino build output
+build/
+*.hex.tmp
+
+# OS clutter
+.DS_Store
+Thumbs.db

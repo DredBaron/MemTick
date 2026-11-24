@@ -1,0 +1,20 @@
+Reference,Qty,Value,Description,Footprint,Manufacturer,MPN,DigiKey PN
+U1,1,ATtiny3216,8-bit MCU 32 KB flash SOIC-20W,SOIC-20W_7.5x12.8mm_P1.27mm,Microchip,ATTINY3216-SNR,ATTINY3216-SNRCT-ND
+Q1,1,AO3400A,N-channel MOSFET 30 V 5.7 A SOT-23,SOT-23,Alpha & Omega,AO3400A,785-1000-1-ND
+R1 R3,2,10k,Resistor 1/4 W 5% axial,R_Axial_DIN0207_P10.16mm,Stackpole,CF14JT10K0,CF14JT10K0CT-ND
+R2,1,100,Resistor 1/4 W 5% axial,R_Axial_DIN0207_P10.16mm,Stackpole,CF14JT100R,CF14JT100RCT-ND
+R4 R6,2,1k,Resistor 1/4 W 5% axial,R_Axial_DIN0207_P10.16mm,Stackpole,CF14JT1K00,CF14JT1K00CT-ND
+R5,1,68 2W,Resistor 2 W 5% metal oxide axial,R_Axial_DIN0414_P15.24mm,Stackpole,RSMF2JT68R0,RSMF2JT68R0CT-ND
+C1,1,100nF,Ceramic X7R 50 V radial 5.00 mm,C_Disc_D5.0mm_P5.00mm,TDK,FG28X7R1H104KNT06,445-173588-1-ND
+C2,1,10uF,Ceramic X7R 25 V radial 5.00 mm,C_Disc_D5.0mm_P5.00mm,TDK,FG26X7R1E106KRT00,445-FG26X7R1E106KRT00-ND
+C3,1,100uF 25V,Aluminum electrolytic 6.3 mm 2.5 mm pitch,CP_Radial_D6.3mm_P2.50mm,Panasonic,EEU-FR1E101,P14413-ND
+D1,1,1N4001,Rectifier diode 50 V 1 A DO-41 (flyback),D_DO-41_P10.16mm,Diodes Inc,1N4001G-T,1N4001GDICT-ND
+D2,1,LED green 3 mm,Activity LED (optional),LED_D3.0mm,Kingbright,WP710A10GD,754-1603-ND
+SW1 SW2 SW3,3,DIP 4-pos,Slide DIP switch SPST x4 2.54 mm,SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm,CTS,206-4ST,CT2064ST-ND
+J2,1,1x4 header,PC case speaker header 2.54 mm (cut from 40-pin strip),PinHeader_1x04_P2.54mm,Sullins,PRPC040SAAN-RC,S1011EC-40-ND
+J3,1,1x3 header,UPDI programming header 2.54 mm (cut from 40-pin strip),PinHeader_1x03_P2.54mm,Sullins,PRPC040SAAN-RC,S1011EC-40-ND
+LS1,1,Speaker 8 ohm 28 mm,8 ohm 2 W speaker with 152 mm leads (wire pads),SolderWire_1x02_P4.8mm,Same Sky,CMS-2853-28L152,2223-CMS-2853-28L152-ND
+J1,1,PCIe x1 edge,PCB edge fingers (part of the board),BUS_PCIexpress_x1,-,-,-
+HW1,1,Bracket,PCIe x1 bracket,-,Generic,-,-
+HW2,2,M2 screw + nut,Speaker mounting (nylon M2 x 6 mm recommended),-,Generic,-,-
+PCB,1,MemTick Rev MC-A,2-layer FR-4 1.6 mm ENIG 78.5 x 68.9 mm with 30 deg bevelled fingers,-,PCBWay,-,-
