@@ -122,7 +122,7 @@ values are grouped at the top of the file so they're easy to adjust.
 3. Under **Tools**, set:
    - Board: **ATtiny3216/1616/1606/816/806/416/406**
    - Chip: **ATtiny3216**
-   - Clock: **10 MHz internal**
+   - Clock: **8 MHz internal**
 4. Connect a UPDI programmer to J3:
 
    | J3 pin | Signal |
